@@ -1,0 +1,24 @@
+{
+  "name": "perf-usfm-js-alignment",
+  "version": "0.0.1",
+  "description": "A simple class to map between PERF and UsfmJs for the purposes of alignment",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proskomma/perf-usfm-js-alignment.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proskomma/perf-usfm-js-alignment/issues"
+  },
+  "homepage": "https://github.com/Proskomma/perf-usfm-js-alignment#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "proskomma-core": "^0.10.4",
+    "proskomma-json-tools": "^0.8.6"
+  }
+}
